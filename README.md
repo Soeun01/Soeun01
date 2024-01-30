@@ -33,3 +33,8 @@
 </p>
 
 </br>
+
+<p align="center">
+  <img width="100" alt="image" src="https://github.com/Soeun01/Soeun01/assets/94830540/fe8188f6-ca8e-4348-8e31-081cea0788e1">
+  <img width="100" alt="image" src="https://github.com/Soeun01/Soeun01/assets/94830540/fdfdb4fc-b24d-4118-944f-62de597befdd">
+</p>
