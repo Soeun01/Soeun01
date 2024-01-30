@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d5bfec&height=200&section=header&text=Soeun%20Github!&fontSize=80&fontColor=000000" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d5bfec&height=200&section=header&text=Soeun%20Github!&fontSize=80&fontColor=000000" />
+</p>
 
 <h3 align="center"> Hi there 👋 </h3>
 <p align="center">
